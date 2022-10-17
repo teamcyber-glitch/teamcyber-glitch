@@ -11,8 +11,8 @@ Spam Brutal WhatsApp 24 jam non stop
   pkg install python
   git clone https://github.com/teamcyber-glitch/ToolsWA
   bash install.sh
-  cd Tools-WhatsApp
-  python main.py
+  
+  #sabar belum rilis, tahap penyempurnaan
   ```
   </details>
 
