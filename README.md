@@ -1,50 +1,16 @@
 # Made By Mr. E-Cyber Team
-Spam Brutal WhatsApp 24 jam non stop
+pkg update
 
-<details open>
-  <summary><strong> Install Package + Run Script </strong></summa>
+pkg upgrade
 
-  ```bash
-  pkg update && pkg upgrade
-  pkg install nano
-  pkg install git
-  pkg install python
-  git clone https://github.com/teamcyber-glitch/ToolsWA
-  bash install.sh
-  
-  #sabar belum rilis, tahap penyempurnaan
-  ```
-  </details>
+pkg install python
 
-<details open>
-  <summary><strong> 24 jam non stop tutorial </strong></summary>
+git clone https://github.com/teamcyber-glitch/WiFi-Hack
 
-  ```bash
-  Example:
-  import os,sys,time,requests,json
-  abc=input("Nomor Target:")
-  while True:
-        print (abc)
-        # Tambah time.sleep(5) (Jika Ingin Delay)
-  ```
-  </details>
+cd WiFi-Hack
 
-  <details open>
-  <summary><strong> 24 jam non stop example </strong></summary>
+python wifiexploit.py
 
-  ```bash
-  import os,sys,time,requests,json
-  nomor=input("Nomor Target:")
-  while True:
-        requests.post("https://beryllium.mapclub.com/api/member/r>
-        time.sleep(10) # Waktu Delay Bisa Atur Sendiri
-  ```
-  </details>
-
-> SUBSCRIBE MY CHANNEL >_<
-https://youtube.com/channel/UCprM5VxY0pQ_i3tZO5Leaqw
-
-<!---
 teamcyber-glitch/teamcyber-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
