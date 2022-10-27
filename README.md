@@ -1,3 +1,3 @@
 # Made By Mr. E-Cyber Team
-Wellcome My Channel
+Wellcome My Channel and Minimal STAR
 
